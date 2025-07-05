@@ -1,0 +1,11 @@
+# Ignoruj wygenerowane pliki Sphinxa
+_build/
+build/
+*.aux
+*.log
+*.toc
+*.out
+*.pdf
+*.gz
+*.nav
+*.snm
